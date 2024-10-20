@@ -1,4 +1,4 @@
--- Use the specified database
+-- Use the specified databse
 USE alx_book_store;
 
 -- Insert multiple rows into the customer table
